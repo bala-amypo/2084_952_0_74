@@ -49,5 +49,5 @@ public class Student{
     this.cgpa=cgpa;
  }
  public  Student(){
-    
+
  }
