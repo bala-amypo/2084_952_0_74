@@ -23,7 +23,22 @@ public class Student{
         this.dob=dob;
     }
     public void setCgpa(float cgpa){
-        this.
+        this.cgpa=cgpa;
+    }
+    public Long getid(){
+        return id;
+    }
+    public String getName(){
+        return name;
+    }
+    public String getdept(){
+        return dept;
+    }
+    public String getDob(){
+        return dob;
+    }
+    public float getCgpa(){
+        return cgpa;
     }
         
     
