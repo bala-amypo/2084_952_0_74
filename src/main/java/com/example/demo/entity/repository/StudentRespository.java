@@ -3,5 +3,5 @@ import org.springframework.stereotype.Service;
 import com.example.demo.service.studentService;
 @Service
 public class StudentServiceImpl implements studentService{
-    student post
+    student postStudent(student s);
 }
